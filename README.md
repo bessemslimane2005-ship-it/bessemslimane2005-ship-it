@@ -6,7 +6,7 @@ Basé à Paris, je recherche une alternance en Data, IA ou développement Python
 J’aime exploiter les données pour comprendre des problèmes concrets, créer des visualisations et développer des solutions utiles.
 
 ##  Compétences
-
+![Technologies](https://skillicons.dev/icons?i=python,postgres,flask,html,css,js&theme=light)
 - **Langages :** Python, SQL
 - **Analyse de données :** pandas, NumPy, Matplotlib, Seaborn
 - **Machine Learning :** scikit-learn
